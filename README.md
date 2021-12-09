@@ -1,1 +1,1 @@
-# lixeiro
+# pro-c25-template
